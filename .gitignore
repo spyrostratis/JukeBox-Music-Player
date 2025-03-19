@@ -1,0 +1,26 @@
+# Ignore build output
+/target/
+!/target/.keep
+
+# Ignore dependency libraries
+/lib/
+*.jar
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+out/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+hs_err_pid*.log
+*.swp
+*.swo
