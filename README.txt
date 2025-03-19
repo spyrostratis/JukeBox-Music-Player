@@ -12,7 +12,7 @@ JukeBox is a powerful and intuitive music player that lets you play, manage, and
 ### Clone the Repository
 First, download or clone the repository:
 ```sh
-git clone https://github.com/YOUR_USERNAME/JukeBox.git
+git clone https://github.com/spyrostratis/JukeBox-Music-Player.git
 cd JukeBox-Music-Player
 ```
 
