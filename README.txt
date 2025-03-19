@@ -57,7 +57,7 @@ java -jar target/JukeBox-1.0.0-RELEASE.jar "Music/" random
 
 ## GUI Mode - Graphical Interface
 
-### 🏁 Launching the GUI
+### Launching the GUI
 You can start the GUI mode by:
 - Running from the console:
   ```sh
@@ -70,7 +70,7 @@ You can start the GUI mode by:
 2. Select a song from the list to **start playback**.
 3. Use the **control buttons** at the bottom for playback options.
 
-### 🎛 Playback Controls
+### Playback Controls
 | Button | Function |
 |--------|----------|
 | 🔀 **Shuffle** | Randomizes playback order |
